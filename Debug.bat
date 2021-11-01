@@ -1,0 +1,2 @@
+::Compile with g++ and include SDL2
+g++ -c src/*.cpp -std=c++14 -IC:/mingw64/include -Wall -m64 && g++ *.o -o bin/Debug/main -LC:/mingw64/lib -lmingw32 -lSDL2main -lSDL2_image -lSDL2  -lSDL2_ttf  && start bin/Debug/main
