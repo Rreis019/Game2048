@@ -60,8 +60,8 @@ struct cell{
 cell table[4][4] = 
 {
     {
-        {2048, CellColor, TextColor},
         {0, CellColor, TextColor},
+        {2, CellColor, TextColor},
         {2, CellColor, TextColor},
         {0, CellColor, TextColor}
     },
@@ -69,13 +69,13 @@ cell table[4][4] =
         {0, CellColor, TextColor},
         {0, CellColor, TextColor},
         {0, CellColor, TextColor},
-        {2, CellColor, TextColor}
+        {0, CellColor, TextColor}
     },
     {
         {0, CellColor, TextColor},
         {0, CellColor, TextColor},
         {0, CellColor, TextColor},
-        {2, CellColor, TextColor}
+        {0, CellColor, TextColor}
     },
     {
         {0, CellColor, TextColor},
