@@ -1,5 +1,4 @@
 # Game2048
-<h2>Description</h2>
 <p>
   Recreation of 2048 game made in one day from scratch using c++
 </p>
