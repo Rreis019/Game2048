@@ -8,3 +8,4 @@ g++ -c src/*.cpp -std=c++14 -O3 -IC:/mingw64/include -Wall -m64 && g++ *.o -o bi
 
 <h2>Screenshot</h2>
 <img src="Image.PNG">
+<img src="lose.PNG">
